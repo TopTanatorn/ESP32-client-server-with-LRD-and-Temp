@@ -4,10 +4,10 @@
 #include <Adafruit_GFX.h>
 #include "Adafruit_LEDBackpack.h"
 const int analogInPin = 36;
-const char* ssid     = "Buzzlightyear";
-const char* password = "@Top12345";
+const char* ssid     = "xxxxxx";
+const char* password = "xxxxxx";
 LM LM;
-IPAddress server (192, 168, 0, 190); // add your server IP
+IPAddress server (xxxx, xxxx, xxxx, xxxx); // add your server IP
 Adafruit_8x16minimatrix matrix = Adafruit_8x16minimatrix();
 // Initialize the client library
 WiFiClient client;
