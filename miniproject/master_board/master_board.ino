@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include "time.h"
-const char* ssid     = "Buzzlightyear";
-const char* password = "@Top12345";
+const char* ssid     = "xxxxxxx";
+const char* password = "xxxxxxx";
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 3600 * 6;
 const int   daylightOffset_sec = 3600;
